@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Sansita+Swashed:wght@300&display=swap');
+*{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Sansita Swashed', cursive;
+}
+form{
+   
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+    color: darkblue;
+}
